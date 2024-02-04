@@ -17,5 +17,5 @@ npm install
 ### Iniciar el proyecto / Start project
 
 ```bash
-npm start
+npm run dev
 ```
