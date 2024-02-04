@@ -8,12 +8,6 @@ Technologies used: React, TypeScript, Apollo GraphQL and [Ant Design's](https://
 
 ## Preparando el terreno / Environment Prepare
 
-Instalar los `node_modules`:
-
-```bash
-npm install
-```
-
 Install `node_modules`:
 
 ```bash
