@@ -1,0 +1,20 @@
+.designer-header{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.designer-header .ant-btn{
+    margin: 5px;
+}
+
+.designer-form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#pdf-designer{
+    height: 90%;
+}
